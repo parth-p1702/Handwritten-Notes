@@ -1,2 +1,2 @@
 # Handwritten-Notes
-Handwritten notes
+Handwritten notes as well as Digital notes helps to freshers
